@@ -1,0 +1,16 @@
+body {
+    min-height: 2000px;
+}
+
+.jumbotron{
+    padding-top: 2rem;
+    background-color: white;
+}
+
+#project{
+    background-color: white;
+}
+
+.nav-link :hover{
+    background-color: black;
+}
